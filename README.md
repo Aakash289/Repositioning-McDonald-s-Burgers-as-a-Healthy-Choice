@@ -1,1 +1,3 @@
 # Repositioning-McDonald-s-Burgers-as-a-Healthy-Choice
+
+As part of the Foundations of Marketing course at UCI’s Paul Merage School of Business, this project focuses on repositioning McDonald’s burgers as a healthier choice in response to rising health-conscious consumer trends. We conducted in-depth PESTLE and SWOT analyses, studied evolving consumer behavior, and evaluated competitor strategies from brands like Subway and Chipotle. Our recommendations included customizable healthy menu options, wellness-focused campaigns, and rewards-based incentives, supported by a three-phase implementation roadmap. This project showcases strategic brand repositioning grounded in consumer insights, marketing frameworks, and data-driven decision-making.
